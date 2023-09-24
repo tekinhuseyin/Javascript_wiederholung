@@ -89,6 +89,7 @@ for (let i = 1; i <= 7; i++) {
 
 // } while (devam.toUpperCase()=="E");
 
+
 console.log("cıktık");
 
 //? ORNEK2: klavyeden q karakteri girilene kadar sayı girişi yapan bir programı döngü kullanarak yazınız.
